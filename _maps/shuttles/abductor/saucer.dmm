@@ -1,0 +1,1393 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"al" = (
+/obj/structure/window/reinforced/tinted/fulltile,
+/turf/open/floor/plating/abductor2,
+/area/abductor_ship)
+"aW" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/effect/landmark/abductor/scientist{
+	team_number = 2
+	},
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"br" = (
+/obj/machinery/power/apc/highcap/fifteen_k,
+/turf/closed/wall/mineral/abductor,
+/area/abductor_ship)
+"bO" = (
+/obj/structure/closet/abductor,
+/obj/item/storage/box/alienhandcuffs,
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"cL" = (
+/obj/machinery/ship_weapon/energy,
+/obj/structure/cable{
+	icon_state = "0-8"
+	},
+/turf/open/floor/plating/abductor2,
+/area/abductor_ship)
+"dz" = (
+/obj/machinery/door/airlock/abductor,
+/obj/structure/fans/tiny/invisible,
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"dA" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"fb" = (
+/turf/closed/indestructible/abductor{
+	icon_state = "alien3"
+	},
+/area/abductor_ship)
+"ge" = (
+/obj/structure/table/abductor,
+/obj/item/paper/guides/antag/abductor,
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"gy" = (
+/obj/structure/bed/abductor,
+/obj/item/bedsheet/random,
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"hb" = (
+/obj/machinery/shield_generator,
+/obj/structure/cable{
+	icon_state = "0-2"
+	},
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"hp" = (
+/turf/closed/indestructible/abductor{
+	icon_state = "alien21"
+	},
+/area/abductor_ship)
+"kj" = (
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"kw" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"kz" = (
+/obj/structure/shuttle/engine/heater{
+	dir = 8
+	},
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"ld" = (
+/obj/machinery/door/airlock/abductor,
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"mw" = (
+/obj/machinery/replicator,
+/turf/closed/wall/mineral/abductor,
+/area/abductor_ship)
+"mG" = (
+/turf/closed/indestructible/abductor{
+	icon_state = "alien18"
+	},
+/area/abductor_ship)
+"od" = (
+/turf/open/floor/plating/abductor2,
+/area/abductor_ship)
+"pk" = (
+/obj/structure/sign/map/right,
+/turf/closed/wall/mineral/abductor,
+/area/abductor_ship)
+"pA" = (
+/obj/machinery/shuttle/engine/void{
+	dir = 4
+	},
+/turf/closed/indestructible/abductor{
+	icon_state = "alien12"
+	},
+/area/abductor_ship)
+"pW" = (
+/obj/machinery/abductor/gland_dispenser,
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"qM" = (
+/turf/closed/indestructible/abductor{
+	icon_state = "alien22"
+	},
+/area/abductor_ship)
+"qV" = (
+/obj/structure/frame/computer{
+	anchored = 1
+	},
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"sq" = (
+/turf/closed/indestructible/abductor{
+	icon_state = "alien2"
+	},
+/area/abductor_ship)
+"sx" = (
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"uj" = (
+/turf/closed/indestructible/abductor{
+	icon_state = "alien20"
+	},
+/area/abductor_ship)
+"uW" = (
+/obj/machinery/power/smes/engineering,
+/obj/structure/cable{
+	icon_state = "0-4"
+	},
+/turf/open/floor/plating/abductor2,
+/area/abductor_ship)
+"wp" = (
+/obj/effect/landmark/abductor/agent{
+	team_number = 2
+	},
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"wC" = (
+/turf/closed/wall/mineral/abductor,
+/area/abductor_ship)
+"wY" = (
+/obj/structure/cable/white{
+	icon_state = "1-10"
+	},
+/turf/open/floor/plating/abductor2,
+/area/abductor_ship)
+"xm" = (
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"xC" = (
+/obj/structure/bed/abductor,
+/obj/item/bedsheet/cosmos,
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"xH" = (
+/turf/closed/indestructible/abductor{
+	icon_state = "alien5"
+	},
+/area/abductor_ship)
+"zM" = (
+/obj/machinery/computer/ship/navigation/console{
+	dir = 8
+	},
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"zN" = (
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"Af" = (
+/obj/structure/shuttle/engine/heater{
+	dir = 8
+	},
+/turf/open/floor/plating/abductor2,
+/area/abductor_ship)
+"Bv" = (
+/turf/closed/indestructible/abductor{
+	icon_state = "alien19"
+	},
+/area/abductor_ship)
+"Ck" = (
+/obj/machinery/door/airlock/abductor,
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"DW" = (
+/turf/closed/indestructible/abductor{
+	icon_state = "alien17"
+	},
+/area/abductor_ship)
+"DY" = (
+/obj/machinery/abductor/pad{
+	team_number = 2
+	},
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"GN" = (
+/turf/closed/indestructible/abductor{
+	icon_state = "alien8"
+	},
+/area/abductor_ship)
+"Ha" = (
+/turf/closed/indestructible/abductor,
+/area/abductor_ship)
+"Ik" = (
+/obj/structure/table/optable/abductor,
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"IC" = (
+/obj/machinery/door/airlock/abductor,
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plating/abductor2,
+/area/abductor_ship)
+"Jt" = (
+/turf/closed/indestructible/abductor{
+	icon_state = "alien14"
+	},
+/area/abductor_ship)
+"JQ" = (
+/turf/closed/indestructible/abductor{
+	icon_state = "alien16"
+	},
+/area/abductor_ship)
+"JT" = (
+/turf/closed/indestructible/abductor{
+	icon_state = "alien11"
+	},
+/area/abductor_ship)
+"Kn" = (
+/turf/closed/indestructible/abductor{
+	icon_state = "alien15"
+	},
+/area/abductor_ship)
+"KG" = (
+/obj/machinery/power/rtg/abductor,
+/obj/structure/cable/white{
+	icon_state = "0-4"
+	},
+/turf/open/floor/plating/abductor2,
+/area/abductor_ship)
+"KS" = (
+/obj/structure/table/abductor,
+/obj/machinery/recharger,
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"KZ" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plating/abductor2,
+/area/abductor_ship)
+"Mh" = (
+/turf/closed/indestructible/abductor{
+	icon_state = "alien10"
+	},
+/area/abductor_ship)
+"Nx" = (
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/obj/structure/cable{
+	icon_state = "0-8"
+	},
+/obj/machinery/power/terminal{
+	dir = 4
+	},
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"NF" = (
+/turf/closed/indestructible/abductor{
+	icon_state = "alien23"
+	},
+/area/abductor_ship)
+"NP" = (
+/obj/structure/window/reinforced/tinted/fulltile,
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"OM" = (
+/turf/open/space/basic,
+/area/space)
+"OU" = (
+/turf/closed/indestructible/abductor{
+	icon_state = "alien4"
+	},
+/area/abductor_ship)
+"Pf" = (
+/obj/machinery/computer/ship/tactical/console{
+	dir = 8
+	},
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"Pm" = (
+/obj/machinery/abductor/experiment,
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"PI" = (
+/obj/structure/table/abductor,
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"PZ" = (
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"QQ" = (
+/obj/structure/closet/abductor,
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"RH" = (
+/obj/machinery/abductor/experiment,
+/obj/machinery/abductor/console,
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"RX" = (
+/turf/closed/indestructible/abductor{
+	icon_state = "alien6"
+	},
+/area/abductor_ship)
+"To" = (
+/obj/structure/sign/map/left,
+/turf/closed/wall/mineral/abductor,
+/area/abductor_ship)
+"Tx" = (
+/obj/structure/cable/white{
+	icon_state = "1-8"
+	},
+/obj/structure/cable/white{
+	icon_state = "5-8"
+	},
+/obj/machinery/power/terminal,
+/obj/structure/cable/white{
+	icon_state = "0-8"
+	},
+/turf/open/floor/plating/abductor2,
+/area/abductor_ship)
+"TA" = (
+/obj/machinery/power/rtg/abductor,
+/obj/structure/cable/white{
+	icon_state = "0-2"
+	},
+/turf/open/floor/plating/abductor2,
+/area/abductor_ship)
+"TB" = (
+/obj/structure/table/abductor,
+/obj/item/surgical_drapes,
+/obj/item/surgicaldrill/alien,
+/obj/item/circular_saw/alien,
+/obj/item/cautery/alien,
+/obj/item/hemostat/alien,
+/obj/item/retractor/alien,
+/obj/item/scalpel/alien,
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"TJ" = (
+/obj/machinery/computer/camera_advanced/abductor,
+/obj/machinery/abductor/console,
+/obj/machinery/abductor/pad{
+	team_number = 2
+	},
+/obj/machinery/computer/camera_advanced/abductor,
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"Ur" = (
+/turf/closed/indestructible/abductor{
+	icon_state = "alien9"
+	},
+/area/abductor_ship)
+"Uy" = (
+/obj/machinery/jukebox/disco,
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"Wj" = (
+/turf/closed/indestructible/abductor{
+	icon_state = "alien24"
+	},
+/area/abductor_ship)
+"WB" = (
+/obj/machinery/door/airlock/abductor,
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"YT" = (
+/turf/closed/indestructible/abductor{
+	icon_state = "alien7"
+	},
+/area/abductor_ship)
+"YX" = (
+/obj/machinery/computer/ship/helm/console{
+	dir = 8
+	},
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+"ZO" = (
+/obj/machinery/suit_storage_unit/standard_unit,
+/turf/open/floor/plating/abductor,
+/area/abductor_ship)
+
+(1,1,1) = {"
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+"}
+(2,1,1) = {"
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+"}
+(3,1,1) = {"
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+"}
+(4,1,1) = {"
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+"}
+(5,1,1) = {"
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+"}
+(6,1,1) = {"
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+"}
+(7,1,1) = {"
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+"}
+(8,1,1) = {"
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+"}
+(9,1,1) = {"
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+JQ
+Jt
+pA
+Mh
+od
+Jt
+pA
+Mh
+RX
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+"}
+(10,1,1) = {"
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+uj
+DW
+KG
+Af
+wC
+dz
+wC
+kz
+gy
+YT
+Ha
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+"}
+(11,1,1) = {"
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+JQ
+wC
+TA
+Tx
+uW
+wC
+PZ
+wC
+QQ
+PZ
+xC
+wC
+RX
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+"}
+(12,1,1) = {"
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+uj
+DW
+TA
+wY
+od
+KZ
+wC
+PZ
+mw
+PZ
+PZ
+PZ
+gy
+YT
+Ha
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+"}
+(13,1,1) = {"
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+hp
+wC
+wC
+wC
+wC
+WB
+To
+ld
+wC
+wC
+wC
+ld
+wC
+wC
+sq
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+"}
+(14,1,1) = {"
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+qM
+PZ
+qV
+wp
+PZ
+kw
+pk
+PZ
+sx
+dA
+Ck
+dA
+xm
+bO
+fb
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+"}
+(15,1,1) = {"
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+qM
+PZ
+PZ
+PZ
+hb
+zN
+Ck
+dA
+kj
+ZO
+wC
+Pm
+kw
+pW
+fb
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+"}
+(16,1,1) = {"
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+qM
+PZ
+PZ
+PZ
+PZ
+kw
+wC
+Uy
+PZ
+ZO
+wC
+RH
+aW
+Ik
+fb
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+"}
+(17,1,1) = {"
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+qM
+PZ
+PZ
+PZ
+PZ
+kw
+ld
+PZ
+PZ
+ZO
+wC
+TJ
+kw
+TB
+fb
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+"}
+(18,1,1) = {"
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+qM
+PZ
+PZ
+sx
+dA
+kj
+mw
+PZ
+PZ
+PZ
+ld
+sx
+Nx
+PZ
+fb
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+"}
+(19,1,1) = {"
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+NF
+PZ
+wC
+IC
+wC
+wC
+wC
+ld
+wC
+wC
+wC
+IC
+br
+DY
+OU
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+"}
+(20,1,1) = {"
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+Wj
+mG
+wC
+cL
+NP
+KS
+KS
+PZ
+PI
+ge
+NP
+cL
+wC
+GN
+xH
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+"}
+(21,1,1) = {"
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+Bv
+wC
+od
+NP
+PZ
+PZ
+PZ
+PZ
+PZ
+NP
+od
+wC
+Ur
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+"}
+(22,1,1) = {"
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+Wj
+mG
+wC
+QQ
+YX
+zM
+Pf
+QQ
+wC
+GN
+xH
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+"}
+(23,1,1) = {"
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+Bv
+Kn
+JT
+al
+al
+al
+Kn
+JT
+Ur
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+"}
+(24,1,1) = {"
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+"}
+(25,1,1) = {"
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+"}
+(26,1,1) = {"
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+"}
+(27,1,1) = {"
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+"}
+(28,1,1) = {"
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+"}
+(29,1,1) = {"
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+"}
+(30,1,1) = {"
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+OM
+"}
