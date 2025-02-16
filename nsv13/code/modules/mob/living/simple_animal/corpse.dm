@@ -1,7 +1,7 @@
 /obj/effect/mob_spawn/human/corpse/redshirt
 	name = "Redshirt"
-	id_job = "Operative"
-	hair_style = "Crewcut"
+	id_job = "Security Officer"
+	hair_style = "Bald"
 	facial_hair_style = "Shaved"
 	outfit = /datum/outfit/redshirtcorpse
 
