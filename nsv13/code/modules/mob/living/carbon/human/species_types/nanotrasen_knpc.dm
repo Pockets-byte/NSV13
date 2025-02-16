@@ -34,3 +34,4 @@
 /mob/living/carbon/human/ai_boarder/ert/deathsquad/doomguy
 	name = "The oncoming storm"
 	outfit = /datum/outfit/death_commando/doomguy
+

@@ -11,5 +11,4 @@
 	accessory = /obj/item/clothing/accessory/solgov_jacket/engsec
 	shoes = /obj/item/clothing/shoes/combat
 	ears = /obj/item/radio/headset
-	back = /obj/item/storage/backpack
 	id = /obj/item/card/id/job/security_officer
