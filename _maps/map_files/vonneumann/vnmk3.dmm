@@ -5354,7 +5354,7 @@
 /area/nsv/weapons/port)
 "dJD" = (
 /obj/structure/closet/secure_closet/engineering_welding{
-	req_access = list(0)
+	req_access = list(79)
 	},
 /obj/item/ammo_box/magazine/nsv/heavy_cannon,
 /obj/item/ammo_box/magazine/nsv/heavy_cannon,
@@ -6633,7 +6633,7 @@
 	pixel_y = 26
 	},
 /obj/structure/closet/secure_closet/engineering_welding{
-	req_access = list(0)
+	req_access = list(79)
 	},
 /turf/open/floor/engine/airless,
 /area/nsv/hanger)
@@ -16283,10 +16283,6 @@
 	},
 /turf/open/floor/carpet/ship/orange_carpet,
 /area/engine/storage_shared)
-"lGb" = (
-/obj/structure/hull_plate,
-/turf/open/floor/engine/airless,
-/area/space/nearstation)
 "lGU" = (
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
 	dir = 8
@@ -65142,11 +65138,11 @@ lfF
 lfF
 rle
 tqm
-skc
 tqm
 tqm
 tqm
-fGN
+tqm
+tqm
 tqm
 rzk
 lfF
@@ -65752,7 +65748,7 @@ tqm
 tqm
 tqm
 tqm
-lGb
+tqm
 rzk
 lfF
 lfF
@@ -66151,7 +66147,7 @@ lfF
 lfF
 lfF
 lfF
-qwl
+rle
 tqm
 tqm
 tqm
@@ -66353,12 +66349,12 @@ lfF
 lfF
 lfF
 lfF
-lfF
 rle
+skc
 tqm
-lGb
-lGb
 tqm
+tqm
+fGN
 rzk
 lfF
 lfF
@@ -66555,8 +66551,8 @@ lfF
 lfF
 lfF
 lfF
-lfF
 rle
+tqm
 tqm
 tqm
 tqm
@@ -66757,9 +66753,9 @@ lfF
 lfF
 lfF
 lfF
-lfF
-qwl
-lGb
+rle
+tqm
+tqm
 tqm
 tqm
 tqm
@@ -66959,9 +66955,9 @@ lfF
 lfF
 lfF
 lfF
-lfF
-lfF
 rle
+tqm
+tqm
 tqm
 tqm
 tqm
@@ -67159,11 +67155,11 @@ lfF
 lfF
 lfF
 lfF
-lfF
-lfF
 ido
 lfF
 rle
+tqm
+tqm
 tqm
 tqm
 tqm
@@ -67363,12 +67359,12 @@ lfF
 lfF
 lfF
 lfF
-lfF
-lfF
 rle
 tqm
 tqm
-lGb
+tqm
+tqm
+tqm
 rzk
 lfF
 ido
@@ -67565,9 +67561,9 @@ lfF
 lfF
 lfF
 lfF
-lfF
-lfF
 qwl
+iTH
+iTH
 iTH
 iTH
 iTH
