@@ -32244,10 +32244,6 @@
 /obj/structure/cable{
 	icon_state = "4-8"
 	},
-/obj/structure/fighter_launcher{
-	dir = 4;
-	name = "Return Arrestor"
-	},
 /turf/open/floor/carpet/ship,
 /area/ai_monitored/turret_protected/aisat/hallway)
 "yeB" = (
