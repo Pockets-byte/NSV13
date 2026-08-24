@@ -5577,6 +5577,10 @@
 	dir = 6
 	},
 /obj/machinery/firealarm/directional/north,
+/obj/structure/sink{
+	dir = 4;
+	pixel_x = 11
+	},
 /turf/open/floor/monotile/light,
 /area/medical/medbay)
 "dQN" = (
@@ -12041,10 +12045,6 @@
 /turf/open/floor/carpet/ship,
 /area/hallway/upper/primary/port)
 "izL" = (
-/obj/structure/sink/kitchen{
-	dir = 4;
-	pixel_x = -11
-	},
 /obj/machinery/camera/autoname{
 	dir = 5
 	},
@@ -21257,6 +21257,10 @@
 	dir = 9
 	},
 /obj/machinery/firealarm/directional/east,
+/obj/structure/sink{
+	dir = 4;
+	pixel_x = 11
+	},
 /turf/open/floor/monotile/light,
 /area/medical/medbay)
 "pqj" = (
@@ -21964,6 +21968,10 @@
 /obj/structure/cable{
 	icon_state = "2-8";
 	tag = ""
+	},
+/obj/structure/sink{
+	dir = 4;
+	pixel_x = 11
 	},
 /turf/open/floor/monotile/light,
 /area/medical/medbay)
@@ -28653,7 +28661,13 @@
 /turf/open/floor/carpet/ship,
 /area/hallway/nsv/deck1/frame1/central)
 "vmG" = (
-/obj/structure/closet/wardrobe/botanist,
+/obj/structure/closet/wardrobe/botanist{
+	pixel_x = 5
+	},
+/obj/structure/sink/kitchen{
+	dir = 4;
+	pixel_x = -11
+	},
 /turf/open/floor/carpet/ship,
 /area/hydroponics)
 "vnm" = (
