@@ -1429,6 +1429,10 @@
 "aVR" = (
 /obj/structure/table/glass,
 /obj/item/storage/box/syringes,
+/obj/item/storage/box/beakers,
+/obj/item/reagent_containers/dropper,
+/obj/item/reagent_containers/dropper,
+/obj/item/reagent_containers/dropper,
 /turf/open/floor/durasteel/techfloor_grid,
 /area/science/xenobiology)
 "aWn" = (
@@ -23091,11 +23095,12 @@
 /turf/open/floor/carpet/ship/orange_carpet,
 /area/storage/tools)
 "qHN" = (
-/obj/structure/table/glass,
-/obj/item/reagent_containers/dropper,
-/obj/item/reagent_containers/dropper,
-/obj/item/reagent_containers/dropper,
-/obj/item/storage/box/beakers,
+/obj/structure/reagent_dispensers/watertank,
+/obj/item/extinguisher{
+	pixel_x = 4;
+	pixel_y = 3
+	},
+/obj/item/extinguisher,
 /turf/open/floor/durasteel/techfloor_grid,
 /area/science/xenobiology)
 "qHR" = (
