@@ -44,4 +44,4 @@ MAP_REMOVE_JOB(air_traffic_controller)
     cant_discount = TRUE
     surplus = 0
 
-#undef JOB_MODIFICATION_MAP_NAME
+
