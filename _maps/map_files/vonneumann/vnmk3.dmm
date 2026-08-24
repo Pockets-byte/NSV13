@@ -3021,6 +3021,10 @@
 	},
 /turf/open/floor/engine/airless,
 /area/nsv/hanger)
+"cdD" = (
+/obj/structure/tank_dispenser/oxygen,
+/turf/open/floor/durasteel/techfloor_grid,
+/area/nsv/hanger/notkmcstupidhanger/pilot)
 "cdO" = (
 /obj/machinery/computer/rdconsole/production{
 	dir = 8
@@ -3732,6 +3736,12 @@
 	},
 /turf/open/floor/carpet/ship/orange_carpet,
 /area/engine/engineering)
+"cBo" = (
+/obj/machinery/computer/ship/fighter_launcher{
+	dir = 8
+	},
+/turf/open/floor/engine/airless,
+/area/nsv/hanger)
 "cCo" = (
 /obj/machinery/photocopier,
 /obj/structure/sign/poster/official/random{
@@ -3954,6 +3964,11 @@
 /obj/effect/landmark/start/medical_doctor,
 /turf/open/floor/monotile/light,
 /area/medical/medbay)
+"cMX" = (
+/obj/structure/closet/secure_closet/atc,
+/obj/effect/landmark/start/air_traffic_controller,
+/turf/open/floor/durasteel/techfloor_grid,
+/area/nsv/hanger/notkmcstupidhanger/pilot)
 "cMZ" = (
 /obj/structure/cable/yellow{
 	icon_state = "4-8"
@@ -4539,6 +4554,12 @@
 	},
 /turf/open/floor/carpet/ship/red_carpet,
 /area/security/brig)
+"dfT" = (
+/obj/machinery/computer/ship/fighter_launcher{
+	dir = 8
+	},
+/turf/open/floor/durasteel/techfloor_grid,
+/area/nsv/hanger/notkmcstupidhanger/pilot)
 "dhY" = (
 /obj/structure/shuttle/engine/huge,
 /obj/structure/hull_plate/end,
@@ -10835,7 +10856,6 @@
 	pixel_y = -1;
 	pixel_x = 34
 	},
-/obj/structure/tank_dispenser/oxygen,
 /obj/machinery/camera/autoname{
 	dir = 9
 	},
@@ -11463,6 +11483,10 @@
 	},
 /turf/open/floor/carpet/ship/orange_carpet,
 /area/maintenance/nsv/ftlroom)
+"icG" = (
+/obj/machinery/computer/security/telescreen/atc,
+/turf/closed/wall/r_wall/ship,
+/area/nsv/hanger/notkmcstupidhanger/pilot)
 "ida" = (
 /obj/machinery/door/airlock/ship/public/glass,
 /obj/structure/cable{
@@ -13951,6 +13975,13 @@
 	},
 /turf/open/floor/carpet/ship/red_carpet,
 /area/security/detectives_office)
+"jQa" = (
+/obj/machinery/light{
+	dir = 1
+	},
+/obj/structure/closet/secure_closet/combat_pilot,
+/turf/open/floor/durasteel/techfloor_grid,
+/area/nsv/hanger/notkmcstupidhanger/pilot)
 "jQO" = (
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4,
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2,
@@ -14059,11 +14090,11 @@
 /area/engine/gravity_generator)
 "jUU" = (
 /obj/effect/landmark/start/pilot,
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4{
-	dir = 10
+/obj/machinery/atmospherics/pipe/manifold/scrubbers/hidden/layer4{
+	dir = 1
 	},
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
-	dir = 10
+/obj/machinery/atmospherics/pipe/manifold/supply/hidden/layer2{
+	dir = 1
 	},
 /turf/open/floor/durasteel/techfloor_grid,
 /area/nsv/hanger/notkmcstupidhanger/pilot)
@@ -14604,6 +14635,20 @@
 /obj/machinery/air_sensor/atmos/nitrogen_tank,
 /turf/open/floor/engine/n2,
 /area/engine/atmos/port_atmos)
+"knR" = (
+/obj/machinery/door/airlock/ship/external/glass{
+	name = "Hangar External Airlock";
+	req_one_access_txt = "79;72;73";
+	dir = 8
+	},
+/obj/effect/mapping_helpers/airlock/cyclelink_helper{
+	dir = 8
+	},
+/obj/machinery/atmospherics/pipe/layer_manifold{
+	dir = 4
+	},
+/turf/open/floor/engine,
+/area/nsv/hanger/notkmcstupidhanger/pilot)
 "koi" = (
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
 	dir = 4
@@ -16329,6 +16374,16 @@
 	},
 /turf/open/floor/carpet/ship/blue,
 /area/crew_quarters/cryopods)
+"lKq" = (
+/obj/effect/landmark/start/pilot,
+/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
+	dir = 9
+	},
+/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4{
+	dir = 9
+	},
+/turf/open/floor/durasteel/techfloor_grid,
+/area/nsv/hanger/notkmcstupidhanger/pilot)
 "lKJ" = (
 /obj/structure/chair/fancy/shuttle,
 /turf/open/floor/plating,
@@ -20396,6 +20451,13 @@
 	},
 /turf/open/floor/circuit/green/anim,
 /area/engine/engineering/reactor_control)
+"oMs" = (
+/obj/machinery/suit_storage_unit/pilot,
+/obj/machinery/light{
+	dir = 4
+	},
+/turf/open/floor/durasteel/techfloor_grid,
+/area/nsv/hanger/notkmcstupidhanger/pilot)
 "oMI" = (
 /obj/machinery/seed_extractor,
 /turf/open/floor/carpet/ship,
@@ -20447,6 +20509,23 @@
 /obj/item/gun/energy/laser/retro,
 /turf/open/floor/carpet/ship/red_carpet,
 /area/ai_monitored/security/armory)
+"oPs" = (
+/obj/machinery/door/airlock/ship/external/glass{
+	name = "Hangar External Airlock";
+	req_one_access_txt = "79;72;73";
+	dir = 4
+	},
+/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
+	dir = 8
+	},
+/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4{
+	dir = 8
+	},
+/obj/effect/mapping_helpers/airlock/cyclelink_helper{
+	dir = 4
+	},
+/turf/open/floor/engine,
+/area/nsv/hanger/notkmcstupidhanger/pilot)
 "oPG" = (
 /obj/structure/chair/wood,
 /turf/open/floor/wood,
@@ -21421,6 +21500,12 @@
 	},
 /turf/open/floor/carpet/ship/blue,
 /area/bridge/cic)
+"pyM" = (
+/obj/machinery/camera/autoname{
+	dir = 9
+	},
+/turf/open/floor/engine/airless,
+/area/nsv/hanger)
 "pyQ" = (
 /obj/effect/turf_decal/guideline/guideline_in/blue{
 	dir = 5;
@@ -22163,6 +22248,7 @@
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
 	dir = 4
 	},
+/obj/effect/landmark/start/pilot,
 /turf/open/floor/durasteel/techfloor_grid,
 /area/nsv/hanger/notkmcstupidhanger/pilot)
 "qfr" = (
@@ -28500,6 +28586,18 @@
 /obj/item/stack/package_wrap,
 /turf/open/floor/durasteel/techfloor_grid,
 /area/science/robotics)
+"vjX" = (
+/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4{
+	dir = 8
+	},
+/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
+	dir = 4
+	},
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/engine,
+/area/nsv/hanger/notkmcstupidhanger/pilot)
 "vko" = (
 /obj/effect/landmark/latejoin,
 /obj/structure/cable,
@@ -28581,7 +28679,8 @@
 /turf/open/floor/plating,
 /area/maintenance/starboard/aft)
 "voe" = (
-/obj/structure/closet/secure_closet/combat_pilot,
+/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4,
+/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2,
 /turf/open/floor/durasteel/techfloor_grid,
 /area/nsv/hanger/notkmcstupidhanger/pilot)
 "voz" = (
@@ -29722,6 +29821,15 @@
 	name = "nanoweave carpet (bluer)"
 	},
 /area/crew_quarters/heads/xo)
+"waf" = (
+/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
+	dir = 6
+	},
+/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4{
+	dir = 6
+	},
+/turf/open/floor/durasteel/techfloor_grid,
+/area/nsv/hanger/notkmcstupidhanger/pilot)
 "waF" = (
 /obj/effect/spawner/lootdrop/grille_or_trash,
 /obj/structure/cable{
@@ -31199,6 +31307,19 @@
 "xtl" = (
 /turf/closed/wall/r_wall/ship,
 /area/crew_quarters/heads/hos)
+"xtt" = (
+/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4{
+	dir = 8
+	},
+/obj/machinery/atmospherics/components/binary/dp_vent_pump/layer2{
+	dir = 4
+	},
+/obj/structure/sign/warning/vacuum{
+	pixel_y = 31
+	},
+/obj/machinery/advanced_airlock_controller/directional/south,
+/turf/open/floor/engine,
+/area/nsv/hanger/notkmcstupidhanger/pilot)
 "xtJ" = (
 /obj/machinery/computer/ship/viewscreen,
 /obj/machinery/computer/pandemic,
@@ -59685,7 +59806,7 @@ evf
 evf
 cxc
 fqf
-bXe
+cMX
 vFD
 wMZ
 uLH
@@ -59881,10 +60002,10 @@ lfF
 lfF
 vYj
 wEM
-rle
 evf
-evf
-utg
+jQa
+tMh
+cdD
 jUU
 eNk
 uXj
@@ -60083,11 +60204,11 @@ lfF
 lfF
 vYj
 wEM
-rle
 evf
-evf
+waf
 voe
-bXe
+voe
+lKq
 bXe
 hFz
 qeY
@@ -60285,11 +60406,11 @@ lfF
 lfF
 vYj
 wEM
-rle
 evf
-evf
-evf
-tMh
+oPs
+icG
+oMs
+dfT
 tMh
 evf
 fTj
@@ -60487,9 +60608,9 @@ lfF
 lfF
 vYj
 wEM
-rle
-vcm
-vcm
+evf
+xtt
+evf
 vcm
 cVX
 vcm
@@ -60689,9 +60810,9 @@ lfF
 lfF
 vYj
 wEM
-rle
-vcm
-vcm
+evf
+vjX
+evf
 eJe
 wYg
 dJD
@@ -60891,9 +61012,9 @@ lfF
 lfF
 vYj
 wEM
-rle
-vcm
-vcm
+evf
+knR
+evf
 ldP
 qtp
 wua
@@ -61093,10 +61214,10 @@ lfF
 lfF
 vYj
 wEM
-rle
-vcm
 vcm
 fDn
+oLI
+oLI
 oLI
 ccz
 gOF
@@ -61295,10 +61416,10 @@ lfF
 lfF
 vYj
 wEM
-rle
 vcm
-vcm
-dun
+oLI
+pyM
+oLI
 oLI
 oLI
 oLI
@@ -61497,10 +61618,10 @@ lfF
 lfF
 vYj
 wEM
-rle
 vcm
 vcm
-irC
+vcm
+dun
 oLI
 oLI
 oLI
@@ -61702,7 +61823,7 @@ jRk
 xSG
 wYG
 vcm
-rWy
+irC
 oLI
 oLI
 oLI
@@ -62106,7 +62227,7 @@ jRk
 xSG
 wYG
 vcm
-oLI
+rWy
 oLI
 oLI
 oLI
@@ -63325,7 +63446,7 @@ oLI
 oLI
 oLI
 oLI
-oLI
+cBo
 vcm
 lGb
 lGb
