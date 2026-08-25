@@ -3628,15 +3628,15 @@
 /obj/structure/cable{
 	icon_state = "1-8"
 	},
-/obj/effect/turf_decal/guideline/guideline_in/blue{
-	icon_state = "guideline_in-s"
+/obj/effect/turf_decal/guideline/guideline_in_arrow_con/blue{
+	icon_state = "guideline_in_arrow_con-s"
 	},
 /obj/effect/turf_decal/guideline/guideline_mid/yellow{
 	icon_state = "guideline_mid-s"
 	},
-/obj/effect/turf_decal/guideline/guideline_in/red{
-	dir = 1;
-	icon_state = "guideline_in-s"
+/obj/effect/turf_decal/guideline/guideline_in_arrow_con/red{
+	dir = 6;
+	icon_state = "guideline_in_arrow_con-s"
 	},
 /obj/effect/turf_decal/guideline/guideline_mid/purple{
 	dir = 1;
@@ -5106,6 +5106,7 @@
 	dir = 1;
 	icon_state = "guideline_mid-s"
 	},
+/obj/item/kirbyplants/random,
 /turf/open/floor/carpet/ship,
 /area/hallway/primary/starboard)
 "dAP" = (
@@ -8648,8 +8649,8 @@
 /obj/machinery/door/firedoor/border_only{
 	dir = 1
 	},
-/obj/effect/turf_decal/guideline/guideline_in/red{
-	dir = 4
+/obj/effect/turf_decal/guideline/guideline_in_arrow_con_alt/red{
+	dir = 8
 	},
 /obj/machinery/door/airlock/ship/public/glass{
 	name = "Research Lobby"
@@ -9366,7 +9367,7 @@
 	icon_state = "4-8"
 	},
 /obj/effect/turf_decal/guideline/guideline_in_arrow_con/blue{
-	icon_state = "guideline_in_arrow_con-s"
+	icon_state = "guideline_in_start_con-s"
 	},
 /obj/effect/turf_decal/guideline/guideline_mid_arrow_con/yellow{
 	dir = 5;
@@ -9374,7 +9375,7 @@
 	},
 /obj/effect/turf_decal/guideline/guideline_in_arrow_con/red{
 	dir = 6;
-	icon_state = "guideline_in_arrow_con-s"
+	icon_state = "guideline_in_start_con-s"
 	},
 /obj/effect/turf_decal/guideline/guideline_mid/purple{
 	dir = 1;
@@ -26407,20 +26408,19 @@
 /obj/structure/cable/yellow{
 	icon_state = "4-8"
 	},
-/obj/item/kirbyplants/random,
 /obj/effect/turf_decal/guideline/guideline_in/blue{
-	dir = 1;
-	icon_state = "guideline_in-s"
+	dir = 6;
+	icon_state = "guideline_in_start_con-s"
 	},
 /obj/effect/turf_decal/guideline/guideline_mid/yellow{
 	dir = 1;
 	icon_state = "guideline_mid-s"
 	},
 /obj/effect/turf_decal/guideline/guideline_in/red{
-	icon_state = "guideline_in-s"
+	icon_state = "guideline_in_start_con-s"
 	},
 /obj/effect/turf_decal/guideline/guideline_mid/purple{
-	icon_state = "guideline_mid-s"
+	icon_state = "guideline_mid_start_con-s"
 	},
 /obj/structure/sign/directions/plaque/hangar{
 	dir = 4;
